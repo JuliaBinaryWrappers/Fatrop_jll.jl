@@ -1,0 +1,18 @@
+version = "1.2.0+0"
+name = "Fatrop_jll"
+uuid = "aea072e7-f65e-5bd3-be56-c5f20aa619ed"
+
+[deps]
+blasfeo_jll = "6b574d4a-bb57-5a4b-b7e6-1c794c903646"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
+
+[compat]
+Libdl = "< 0.0.1, 1"
+julia = "1.10"
+JLLWrappers = "1.7.0"
+blasfeo_jll = "0.1.4"
+Artifacts = "< 0.0.1, 1"
+TOML = "< 0.0.1, 1"

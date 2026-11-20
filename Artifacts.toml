@@ -1,0 +1,164 @@
+[[Fatrop]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "10c06409c4b1142679a55627e785ec15800baa1e"
+libc = "glibc"
+march = "x86_64"
+os = "linux"
+
+    [[Fatrop.download]]
+    sha256 = "ce41a9682bc823f406cecc76c9718b4266e6048c3ad5cde7a1a03ffa434e595c"
+    url = "https://github.com/JuliaBinaryWrappers/Fatrop_jll.jl/releases/download/Fatrop-v1.2.0+0/Fatrop.v1.2.0.x86_64-linux-gnu-cxx11-march+x86_64.tar.gz"
+[[Fatrop]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9a6f56c53005d4ece19fe657bb1808efdf8ff94a"
+libc = "glibc"
+march = "avx"
+os = "linux"
+
+    [[Fatrop.download]]
+    sha256 = "388277e82128e025a67fdce244f7bf63aec22fa94575eed408aa71396af3a3d8"
+    url = "https://github.com/JuliaBinaryWrappers/Fatrop_jll.jl/releases/download/Fatrop-v1.2.0+0/Fatrop.v1.2.0.x86_64-linux-gnu-cxx11-march+avx.tar.gz"
+[[Fatrop]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "74aa27d755852c79ea17ba02b25948adcf0bafa2"
+libc = "glibc"
+march = "avx2"
+os = "linux"
+
+    [[Fatrop.download]]
+    sha256 = "48cd6f5443eaaffc0fdf9815106d0a6c6fb0727bf8496d62117565d7d4d22f2f"
+    url = "https://github.com/JuliaBinaryWrappers/Fatrop_jll.jl/releases/download/Fatrop-v1.2.0+0/Fatrop.v1.2.0.x86_64-linux-gnu-cxx11-march+avx2.tar.gz"
+[[Fatrop]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1c4a81b416904d5f3efde32f86900b047cd398f1"
+libc = "glibc"
+march = "avx512"
+os = "linux"
+
+    [[Fatrop.download]]
+    sha256 = "ece74818aed436bd7b4739ffb916a507c4be8fc5fa1f03ebf84f8fcf62e2e9fe"
+    url = "https://github.com/JuliaBinaryWrappers/Fatrop_jll.jl/releases/download/Fatrop-v1.2.0+0/Fatrop.v1.2.0.x86_64-linux-gnu-cxx11-march+avx512.tar.gz"
+[[Fatrop]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a910ba4bc5c92a8ad113ab1757438e37837fce41"
+libc = "musl"
+march = "x86_64"
+os = "linux"
+
+    [[Fatrop.download]]
+    sha256 = "802e7cb9cc4f2c5d9f024e5c779f9239710e15a239a898c845edb142d7cf7a4e"
+    url = "https://github.com/JuliaBinaryWrappers/Fatrop_jll.jl/releases/download/Fatrop-v1.2.0+0/Fatrop.v1.2.0.x86_64-linux-musl-cxx11-march+x86_64.tar.gz"
+[[Fatrop]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "90a2b4f1a44d693e48ba6b510cbe0f468e576e9c"
+libc = "musl"
+march = "avx"
+os = "linux"
+
+    [[Fatrop.download]]
+    sha256 = "e8bb55eb4337c3c16872dd8e2521450be14f363dbeef5775476673221634f769"
+    url = "https://github.com/JuliaBinaryWrappers/Fatrop_jll.jl/releases/download/Fatrop-v1.2.0+0/Fatrop.v1.2.0.x86_64-linux-musl-cxx11-march+avx.tar.gz"
+[[Fatrop]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "167bc0dee8b44d724aae5bc83d7568ddf9261fb5"
+libc = "musl"
+march = "avx2"
+os = "linux"
+
+    [[Fatrop.download]]
+    sha256 = "57c78a631c4c0067cdb634386de43261e0eb3f61f67786dbb99a45236a0a506c"
+    url = "https://github.com/JuliaBinaryWrappers/Fatrop_jll.jl/releases/download/Fatrop-v1.2.0+0/Fatrop.v1.2.0.x86_64-linux-musl-cxx11-march+avx2.tar.gz"
+[[Fatrop]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1e774b2cbbf43445f4564a75a6844c9c0a7525f3"
+libc = "musl"
+march = "avx512"
+os = "linux"
+
+    [[Fatrop.download]]
+    sha256 = "3169d1b82242d3080dd052936298e63349ba8a2cb06186100a11656e15075509"
+    url = "https://github.com/JuliaBinaryWrappers/Fatrop_jll.jl/releases/download/Fatrop-v1.2.0+0/Fatrop.v1.2.0.x86_64-linux-musl-cxx11-march+avx512.tar.gz"
+[[Fatrop]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bd24b7ffe055b986e55b69ba5a2a68803d4f6c77"
+march = "x86_64"
+os = "windows"
+
+    [[Fatrop.download]]
+    sha256 = "a41a53a40e32328d687563681abf9764fd45e16048db11615030e7937e4a7742"
+    url = "https://github.com/JuliaBinaryWrappers/Fatrop_jll.jl/releases/download/Fatrop-v1.2.0+0/Fatrop.v1.2.0.x86_64-w64-mingw32-cxx11-march+x86_64.tar.gz"
+[[Fatrop]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2b4bd5c7b738218174ccbee35012ac1a1c29fa46"
+march = "avx"
+os = "windows"
+
+    [[Fatrop.download]]
+    sha256 = "e4be6c5739888976fe3ef03377eaf97dc0ca0e1c765e66a4e99095af1f75aecb"
+    url = "https://github.com/JuliaBinaryWrappers/Fatrop_jll.jl/releases/download/Fatrop-v1.2.0+0/Fatrop.v1.2.0.x86_64-w64-mingw32-cxx11-march+avx.tar.gz"
+[[Fatrop]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "909bdc10e5bd7c8a79b7b31865d48db62ca21b39"
+march = "avx2"
+os = "windows"
+
+    [[Fatrop.download]]
+    sha256 = "253d4c93c0d583436d497a387cdc55527178dfaa53af8af9ec977b2cce5db89f"
+    url = "https://github.com/JuliaBinaryWrappers/Fatrop_jll.jl/releases/download/Fatrop-v1.2.0+0/Fatrop.v1.2.0.x86_64-w64-mingw32-cxx11-march+avx2.tar.gz"
+[[Fatrop]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "378de183b82b438e64e4e7390c0ffe6caf161055"
+march = "avx512"
+os = "windows"
+
+    [[Fatrop.download]]
+    sha256 = "af85abd72b9d51306d231b777ec78668eb0b40ec2bf2b5f3ffb6632245361bec"
+    url = "https://github.com/JuliaBinaryWrappers/Fatrop_jll.jl/releases/download/Fatrop-v1.2.0+0/Fatrop.v1.2.0.x86_64-w64-mingw32-cxx11-march+avx512.tar.gz"
+[[Fatrop]]
+arch = "x86_64"
+git-tree-sha1 = "12b7f39430f919c72e95bdc7653920b87f52831f"
+march = "x86_64"
+os = "macos"
+
+    [[Fatrop.download]]
+    sha256 = "314a115b35471dfe350542c44dc822fa457bb7e7d08246d7d127c016607f5d40"
+    url = "https://github.com/JuliaBinaryWrappers/Fatrop_jll.jl/releases/download/Fatrop-v1.2.0+0/Fatrop.v1.2.0.x86_64-apple-darwin-march+x86_64.tar.gz"
+[[Fatrop]]
+arch = "x86_64"
+git-tree-sha1 = "c91bd973cce1bd62fb06bcf8fe3f9c0a0602999a"
+march = "avx"
+os = "macos"
+
+    [[Fatrop.download]]
+    sha256 = "684bc9ace7c84ab0857440c182cc39f874c736b93acbb618417eb3c6797a469f"
+    url = "https://github.com/JuliaBinaryWrappers/Fatrop_jll.jl/releases/download/Fatrop-v1.2.0+0/Fatrop.v1.2.0.x86_64-apple-darwin-march+avx.tar.gz"
+[[Fatrop]]
+arch = "x86_64"
+git-tree-sha1 = "1cd3e93de8c6b49ca3e12ba5007a2629cd15868e"
+march = "avx2"
+os = "macos"
+
+    [[Fatrop.download]]
+    sha256 = "7dece119bc7712cb0fc6db95746a5467246fdb112a2be3f7638015627bdab21e"
+    url = "https://github.com/JuliaBinaryWrappers/Fatrop_jll.jl/releases/download/Fatrop-v1.2.0+0/Fatrop.v1.2.0.x86_64-apple-darwin-march+avx2.tar.gz"
+[[Fatrop]]
+arch = "aarch64"
+git-tree-sha1 = "dcaa6e05e8c74469ef166218945679b445b131af"
+march = "apple_m1"
+os = "macos"
+
+    [[Fatrop.download]]
+    sha256 = "cb9669475ca9e52de759ad49d515b1a14545f67e97510d28ebbc093b7ddb3ad2"
+    url = "https://github.com/JuliaBinaryWrappers/Fatrop_jll.jl/releases/download/Fatrop-v1.2.0+0/Fatrop.v1.2.0.aarch64-apple-darwin-march+apple_m1.tar.gz"
